@@ -11,7 +11,7 @@ function line_particle:a
 **注意：markerを消す処理、アイテムディスプレイを消す処理はありません。**
 
 ## 使用例
-**視点の先の軌跡を描く**
+**視点の先の軌跡を描く**  
 load時
 ```
 scoreboard objectives add linetime dummy
