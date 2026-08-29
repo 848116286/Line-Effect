@@ -1,0 +1,1 @@
+$summon item_display $(px) $(py) $(pz) {item:{id:"light_blue_concrete"},transformation:{translation:[0,0,0],scale:[0.0625,0.0625,$(l)],left_rotation:[$(lr0),$(lr1),0,$(lr3)],right_rotation:[0,0,0,1]},Tags:["bot_line_particle_display"]}
