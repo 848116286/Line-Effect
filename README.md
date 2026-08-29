@@ -34,7 +34,7 @@ kill @e[type=item_display,tag=bot_line_particle_display,scores={linetime=32..}]
 - markerとmarkerの間が約23ブロックを超えるとオーバーフローしてバグが発生します。
 - markerが絶対座標約100万を超えるとオーバーフローしてバグが発生します。
 
-# 伝えておくこと
+## 伝えておくこと
 - `s.mcfunction`内の`{id:"light_blue_concrete"}`を変更することで、設置するアイテムディスプレイのアイテムを変更可能。ここをリソースパックで追加したアイテムにすれば、固有のラインエフェクトを実装することができる。
 - `s.mcfunction`内の`[0.0625,0.0625,$(l)]`の、0.0625を変更することで、線の形状を変えることも可能。
 - 基本的に、`a.mcfunction`,`square.mcfunction`,`square_d.mcfunction`は変更しない方がいいです。
