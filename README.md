@@ -7,7 +7,7 @@ Minecraft JE 26.2
 ~~~
 function line_particle:a
 ~~~
-を実行すると、2つのmarkerを繋ぐようにアイテムディスプレイ`[tag=bot_line_particle_display]`が出現します。
+を実行すると、2つのmarkerを繋ぐようにアイテムディスプレイ`[tag=bot_line_particle_display]`が出現します。  
 **注意：markerを消す処理、アイテムディスプレイを消す処理はありません。**
 
 ## 使用例
